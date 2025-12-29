@@ -1,11 +1,11 @@
-# README #
+# AI Skin Cancer Detection w/ Computer Vision #
 
-
+by Juli Huang - first ever hackathon project. For Michigan Hacks (MHacks)
 
 ### What is this repository for? ###
 
 * This app utilizes the latest machine learning technology to detect skin conditions by allowing users to upload an image file.
-* It provides a convinient way for people to get initial diagnosis of their skin health issues with ease.
+* It provides a convenient way for people to get initial diagnosis of their skin health issues with ease.
 * Version 1.0
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
@@ -15,13 +15,3 @@
 * many data files hosted on Google Colab. 
 * Follow the code to set up the project. 
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
